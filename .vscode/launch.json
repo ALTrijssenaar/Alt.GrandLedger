@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "C#: Alt.GrandLedger.Web [Default Configuration]",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/src/Alt.GrandLedger/Alt.GrandLedger.Web/Alt.GrandLedger.Web.csproj"
+    }
+  ]
+}
